@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+﻿import React, { useState, useEffect } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import { ArrowRight, ChevronDown, ChevronUp, Star, Send } from 'lucide-react';
 import { TRAVEL_OFFERS } from '../data/offersData';
