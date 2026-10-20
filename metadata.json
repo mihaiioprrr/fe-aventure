@@ -1,0 +1,6 @@
+{
+  "name": "F.E. Aventure S.R.L. - Agenție de Turism",
+  "description": "Platformă web modernă în stil Apple cu degradeuri pentru firma de exercițiu F.E. Aventure S.R.L.: prezentare, oferte turistice interactive și formular de contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
