@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { Link } from 'react-router-dom';
 import { Compass } from 'lucide-react';
 import { COMPANY_INFO } from '../data/offersData';
